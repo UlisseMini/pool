@@ -1,0 +1,9 @@
+name: pool
+version: 0.1.0
+
+authors:
+  - Ulisse Mini <ulisse.mini@gmail.com>
+
+crystal: 0.29.0
+
+license: MIT
